@@ -1,0 +1,1 @@
+Extract only the plain text content from this document. Do not include any bounding boxes, layout information, coordinates, or formatting — just the raw text in natural reading order.
